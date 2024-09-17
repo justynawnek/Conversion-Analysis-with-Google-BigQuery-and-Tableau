@@ -20,7 +20,7 @@ This project involves analyzing conversion metrics from the Google Analytics 4 (
   - **Conversion Funnel Chart:**
   - **Event Statistics by Day and Week:**
     
-    ![Dashboard](Dashboard screenshot.png)
+    ![Dashboard](Dashboard_screenshot.png)
 
 You can view the interactive dashboard on my Tableau Public profile:
 
