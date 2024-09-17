@@ -13,23 +13,18 @@ This project involves analyzing conversion metrics from the Google Analytics 4 (
 - **Objective:** Visualize the extracted data and KPIs using Tableau to provide actionable insights.
 - **Visualizations:**
   - **Revenue Overview:**
-    ![Revenue Overview](revenue_overview.png)
   - **New Users Trend:**
-    ![New Users Trend](new_users_trend.png)
   - **Peak Traffic Hours:**
-    ![Peak Traffic Hours](peak_traffic_hours.png)
   - **Pareto Chart of Key Revenue Drivers by Medium:**
-    ![Pareto Chart](pareto_chart.png)
   - **Traffic and Revenue Source Map:**
-    ![Traffic and Revenue Source Map](source_map.png)
   - **Conversion Funnel Chart:**
-    ![Conversion Funnel](conversion_funnel.png)
   - **Event Statistics by Day and Week:**
-    ![Event Statistics](event_statistics.png)
+    
+    ![Dashboard](event_statistics.png)
 
 You can view the interactive dashboard on my Tableau Public profile:
 
-[Tableau Dashboard](insert-your-tableau-public-link-here)
+[Tableau Dashboard](https://public.tableau.com/views/CustomerJourney_17260835284590/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 🚀 Results
 - **Revenue Insights:** Provided a clear view of revenue trends and key revenue drivers by medium.
@@ -39,11 +34,10 @@ You can view the interactive dashboard on my Tableau Public profile:
 - **Event Statistics:** Offered detailed breakdowns of event statistics by day and week.
 
 ## 📂 Project Files
-- **BigQuery SQL Query:** [Link to SQL File or Instructions](add-link-or-instructions-here)
-- **Tableau Dashboard:** `tableau/tableau_dashboard.twb`
+- **BigQuery SQL Query:** [bigquery_query.sql](bigquery_query.sql)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions or feedback, please contact me at [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, please contact me at [justynacurzytek06@gmail.com](justynacurzytek06@gmail.com).
